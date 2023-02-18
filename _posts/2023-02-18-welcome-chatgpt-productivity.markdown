@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My-Starup-Journey"
+title: "Scratching The Startup Itch"
 date:   2023-02-18 12:39:00 +0530
 categories: startup chatgpt
 
